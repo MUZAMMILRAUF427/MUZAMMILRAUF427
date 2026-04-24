@@ -16,7 +16,7 @@
 
 ## 📍 About Me
 
-<p align="justify">
+<p align="center">
 
 I am <b>Muhammad Muzammil</b>, a results-driven and highly motivated <b>Software Engineer</b> with a strong command over modern software development principles, system design, and scalable application architecture. I have completed my <b>BS in Software Engineering</b> from <b>UIIT – PMAS Arid Agriculture University (PMAS-AAUR)</b>, where I developed a solid technical foundation in programming, problem-solving, and real-world software engineering practices.
 
