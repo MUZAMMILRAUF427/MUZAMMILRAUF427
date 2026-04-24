@@ -33,15 +33,10 @@ I specialize in building high-performance digital solutions by combining experti
 <p>
 
 🔧 <b>Software Engineering:</b> Strong foundation in clean architecture & scalable systems  
-<br>
 📱 <b>Android Development:</b> Kotlin, Java, MVVM, RoomDB, Firebase, REST APIs  
-<br>
 🤖 <b>AI Automation:</b> n8n workflows, automation systems & intelligent solutions  
-<br>
 🌐 <b>Web Development:</b> HTML, CSS, JavaScript, WordPress, responsive design  
-<br>
 🧠 <b>Problem Solving:</b> Debugging, optimization & system efficiency  
-<br>
 🚀 <b>Continuous Learning:</b> Passion for innovation, AI & modern technologies  
 
 </p>
