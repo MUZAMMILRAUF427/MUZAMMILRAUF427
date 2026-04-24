@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Muzammil 👋</h1>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Muhammad Muzammil Banner" width="100%" />
+  <img src="assets/GitHub-Bannar.png" alt="Muhammad Muzammil Banner" width="100%" />
 </p>
 
 <p align="center">
